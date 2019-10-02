@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.text-center h1 {
+    padding-top: 20px;
+  }
+.jumbotron {
+  text-align: center;
+}
+button{
+  padding-top: 10px;
+}
